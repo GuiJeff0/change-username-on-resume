@@ -1,0 +1,42 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  width: 600px;
+  background-color: #d6f2f2;
+  
+  
+}
+p{
+  width: 500px;
+}
+html{
+  background-color: aliceblue;
+  
+}
+h1{
+  margin: 0;
+  text-align: center;
+  text-shadow: 2px 2px 5px rgb(124, 124, 124);
+}
+.foto-gui{
+  display: block;
+  margin: 0;
+  margin-left: 32%;
+}
+#todo{
+  border: 5px solid rgb(0, 0, 0);
+}
+.contact{
+  margin-left: 2%;
+}
+.objetivo{
+  margin-left: 2%;
+}
+.edu{
+  margin-left: 2%;
+}
+.exp{
+  margin-left: 2%;
+}
+.tech{
+  margin-left: 2%;
+}
